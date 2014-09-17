@@ -7,6 +7,18 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		007264FD44D648B49C0C9568 /* libPods-LeGrandCadeau.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 4B82B26E8A554813A87FABC4 /* libPods-LeGrandCadeau.a */; };
+		AFF32FF819C77B9000588F95 /* LeGrandWorkshop.pdf in Resources */ = {isa = PBXBuildFile; fileRef = AFF32FF719C77B9000588F95 /* LeGrandWorkshop.pdf */; };
+		AFF3300319C77E2100588F95 /* IMG_4743.png in Resources */ = {isa = PBXBuildFile; fileRef = AFF32FF919C77E2100588F95 /* IMG_4743.png */; };
+		AFF3300419C77E2100588F95 /* IMG_4744.png in Resources */ = {isa = PBXBuildFile; fileRef = AFF32FFA19C77E2100588F95 /* IMG_4744.png */; };
+		AFF3300519C77E2100588F95 /* IMG_4746.png in Resources */ = {isa = PBXBuildFile; fileRef = AFF32FFB19C77E2100588F95 /* IMG_4746.png */; };
+		AFF3300619C77E2100588F95 /* IMG_4747.png in Resources */ = {isa = PBXBuildFile; fileRef = AFF32FFC19C77E2100588F95 /* IMG_4747.png */; };
+		AFF3300719C77E2100588F95 /* IMG_4748.png in Resources */ = {isa = PBXBuildFile; fileRef = AFF32FFD19C77E2100588F95 /* IMG_4748.png */; };
+		AFF3300819C77E2100588F95 /* IMG_4749.png in Resources */ = {isa = PBXBuildFile; fileRef = AFF32FFE19C77E2100588F95 /* IMG_4749.png */; };
+		AFF3300919C77E2100588F95 /* IMG_4750.png in Resources */ = {isa = PBXBuildFile; fileRef = AFF32FFF19C77E2100588F95 /* IMG_4750.png */; };
+		AFF3300A19C77E2100588F95 /* IMG_4751.png in Resources */ = {isa = PBXBuildFile; fileRef = AFF3300019C77E2100588F95 /* IMG_4751.png */; };
+		AFF3300B19C77E2100588F95 /* IMG_4752.png in Resources */ = {isa = PBXBuildFile; fileRef = AFF3300119C77E2100588F95 /* IMG_4752.png */; };
+		AFF3300C19C77E2100588F95 /* IMG_4753.png in Resources */ = {isa = PBXBuildFile; fileRef = AFF3300219C77E2100588F95 /* IMG_4753.png */; };
 		AFF5FC9919C36D690023C29D /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AFF5FC9819C36D690023C29D /* Foundation.framework */; };
 		AFF5FC9B19C36D690023C29D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AFF5FC9A19C36D690023C29D /* CoreGraphics.framework */; };
 		AFF5FC9D19C36D690023C29D /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AFF5FC9C19C36D690023C29D /* UIKit.framework */; };
@@ -14,13 +26,14 @@
 		AFF5FCA519C36D690023C29D /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = AFF5FCA419C36D690023C29D /* main.m */; };
 		AFF5FCA919C36D690023C29D /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = AFF5FCA819C36D690023C29D /* AppDelegate.m */; };
 		AFF5FCAC19C36D690023C29D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AFF5FCAA19C36D690023C29D /* Main.storyboard */; };
-		AFF5FCAF19C36D690023C29D /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AFF5FCAE19C36D690023C29D /* ViewController.m */; };
+		AFF5FCAF19C36D690023C29D /* PageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AFF5FCAE19C36D690023C29D /* PageViewController.m */; };
 		AFF5FCB119C36D690023C29D /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AFF5FCB019C36D690023C29D /* Images.xcassets */; };
 		AFF5FCB819C36D690023C29D /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AFF5FCB719C36D690023C29D /* XCTest.framework */; };
 		AFF5FCB919C36D690023C29D /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AFF5FC9819C36D690023C29D /* Foundation.framework */; };
 		AFF5FCBA19C36D690023C29D /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AFF5FC9C19C36D690023C29D /* UIKit.framework */; };
 		AFF5FCC219C36D690023C29D /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = AFF5FCC019C36D690023C29D /* InfoPlist.strings */; };
 		AFF5FCC419C36D690023C29D /* LeGrandCadeauTests.m in Sources */ = {isa = PBXBuildFile; fileRef = AFF5FCC319C36D690023C29D /* LeGrandCadeauTests.m */; };
+		AFF5FCCF19C370AB0023C29D /* PageContentViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AFF5FCCE19C370AB0023C29D /* PageContentViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +47,19 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		20EDC574CF00496F9FB70B1A /* Pods-LeGrandCadeau.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LeGrandCadeau.xcconfig"; path = "Pods/Pods-LeGrandCadeau.xcconfig"; sourceTree = "<group>"; };
+		4B82B26E8A554813A87FABC4 /* libPods-LeGrandCadeau.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-LeGrandCadeau.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		AFF32FF719C77B9000588F95 /* LeGrandWorkshop.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = LeGrandWorkshop.pdf; path = LeGrandCadeau/LeGrandWorkshop.pdf; sourceTree = "<group>"; };
+		AFF32FF919C77E2100588F95 /* IMG_4743.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = IMG_4743.png; path = LeGrandCadeau/IMG_4743.png; sourceTree = "<group>"; };
+		AFF32FFA19C77E2100588F95 /* IMG_4744.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = IMG_4744.png; path = LeGrandCadeau/IMG_4744.png; sourceTree = "<group>"; };
+		AFF32FFB19C77E2100588F95 /* IMG_4746.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = IMG_4746.png; path = LeGrandCadeau/IMG_4746.png; sourceTree = "<group>"; };
+		AFF32FFC19C77E2100588F95 /* IMG_4747.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = IMG_4747.png; path = LeGrandCadeau/IMG_4747.png; sourceTree = "<group>"; };
+		AFF32FFD19C77E2100588F95 /* IMG_4748.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = IMG_4748.png; path = LeGrandCadeau/IMG_4748.png; sourceTree = "<group>"; };
+		AFF32FFE19C77E2100588F95 /* IMG_4749.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = IMG_4749.png; path = LeGrandCadeau/IMG_4749.png; sourceTree = "<group>"; };
+		AFF32FFF19C77E2100588F95 /* IMG_4750.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = IMG_4750.png; path = LeGrandCadeau/IMG_4750.png; sourceTree = "<group>"; };
+		AFF3300019C77E2100588F95 /* IMG_4751.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = IMG_4751.png; path = LeGrandCadeau/IMG_4751.png; sourceTree = "<group>"; };
+		AFF3300119C77E2100588F95 /* IMG_4752.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = IMG_4752.png; path = LeGrandCadeau/IMG_4752.png; sourceTree = "<group>"; };
+		AFF3300219C77E2100588F95 /* IMG_4753.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = IMG_4753.png; path = LeGrandCadeau/IMG_4753.png; sourceTree = "<group>"; };
 		AFF5FC9519C36D690023C29D /* LeGrandCadeau.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LeGrandCadeau.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AFF5FC9819C36D690023C29D /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		AFF5FC9A19C36D690023C29D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -45,14 +71,16 @@
 		AFF5FCA719C36D690023C29D /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		AFF5FCA819C36D690023C29D /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		AFF5FCAB19C36D690023C29D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		AFF5FCAD19C36D690023C29D /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		AFF5FCAE19C36D690023C29D /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		AFF5FCAD19C36D690023C29D /* PageViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PageViewController.h; sourceTree = "<group>"; };
+		AFF5FCAE19C36D690023C29D /* PageViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PageViewController.m; sourceTree = "<group>"; };
 		AFF5FCB019C36D690023C29D /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		AFF5FCB619C36D690023C29D /* LeGrandCadeauTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LeGrandCadeauTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		AFF5FCB719C36D690023C29D /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
 		AFF5FCBF19C36D690023C29D /* LeGrandCadeauTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "LeGrandCadeauTests-Info.plist"; sourceTree = "<group>"; };
 		AFF5FCC119C36D690023C29D /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		AFF5FCC319C36D690023C29D /* LeGrandCadeauTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LeGrandCadeauTests.m; sourceTree = "<group>"; };
+		AFF5FCCD19C370AB0023C29D /* PageContentViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PageContentViewController.h; sourceTree = "<group>"; };
+		AFF5FCCE19C370AB0023C29D /* PageContentViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PageContentViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +91,7 @@
 				AFF5FC9B19C36D690023C29D /* CoreGraphics.framework in Frameworks */,
 				AFF5FC9D19C36D690023C29D /* UIKit.framework in Frameworks */,
 				AFF5FC9919C36D690023C29D /* Foundation.framework in Frameworks */,
+				007264FD44D648B49C0C9568 /* libPods-LeGrandCadeau.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -82,10 +111,13 @@
 		AFF5FC8C19C36D690023C29D = {
 			isa = PBXGroup;
 			children = (
+				AFF32FF719C77B9000588F95 /* LeGrandWorkshop.pdf */,
+				AFF5FCD619C387360023C29D /* Photos */,
 				AFF5FC9E19C36D690023C29D /* LeGrandCadeau */,
 				AFF5FCBD19C36D690023C29D /* LeGrandCadeauTests */,
 				AFF5FC9719C36D690023C29D /* Frameworks */,
 				AFF5FC9619C36D690023C29D /* Products */,
+				20EDC574CF00496F9FB70B1A /* Pods-LeGrandCadeau.xcconfig */,
 			);
 			sourceTree = "<group>";
 		};
@@ -105,6 +137,7 @@
 				AFF5FC9A19C36D690023C29D /* CoreGraphics.framework */,
 				AFF5FC9C19C36D690023C29D /* UIKit.framework */,
 				AFF5FCB719C36D690023C29D /* XCTest.framework */,
+				4B82B26E8A554813A87FABC4 /* libPods-LeGrandCadeau.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -115,10 +148,12 @@
 				AFF5FCA719C36D690023C29D /* AppDelegate.h */,
 				AFF5FCA819C36D690023C29D /* AppDelegate.m */,
 				AFF5FCAA19C36D690023C29D /* Main.storyboard */,
-				AFF5FCAD19C36D690023C29D /* ViewController.h */,
-				AFF5FCAE19C36D690023C29D /* ViewController.m */,
+				AFF5FCAD19C36D690023C29D /* PageViewController.h */,
+				AFF5FCAE19C36D690023C29D /* PageViewController.m */,
 				AFF5FCB019C36D690023C29D /* Images.xcassets */,
 				AFF5FC9F19C36D690023C29D /* Supporting Files */,
+				AFF5FCCD19C370AB0023C29D /* PageContentViewController.h */,
+				AFF5FCCE19C370AB0023C29D /* PageContentViewController.m */,
 			);
 			path = LeGrandCadeau;
 			sourceTree = "<group>";
@@ -152,6 +187,23 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
+		AFF5FCD619C387360023C29D /* Photos */ = {
+			isa = PBXGroup;
+			children = (
+				AFF32FF919C77E2100588F95 /* IMG_4743.png */,
+				AFF32FFA19C77E2100588F95 /* IMG_4744.png */,
+				AFF32FFB19C77E2100588F95 /* IMG_4746.png */,
+				AFF32FFC19C77E2100588F95 /* IMG_4747.png */,
+				AFF32FFD19C77E2100588F95 /* IMG_4748.png */,
+				AFF32FFE19C77E2100588F95 /* IMG_4749.png */,
+				AFF32FFF19C77E2100588F95 /* IMG_4750.png */,
+				AFF3300019C77E2100588F95 /* IMG_4751.png */,
+				AFF3300119C77E2100588F95 /* IMG_4752.png */,
+				AFF3300219C77E2100588F95 /* IMG_4753.png */,
+			);
+			name = Photos;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -159,9 +211,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = AFF5FCC719C36D690023C29D /* Build configuration list for PBXNativeTarget "LeGrandCadeau" */;
 			buildPhases = (
+				BD108114D49C4F40A6934DB2 /* Check Pods Manifest.lock */,
 				AFF5FC9119C36D690023C29D /* Sources */,
 				AFF5FC9219C36D690023C29D /* Frameworks */,
 				AFF5FC9319C36D690023C29D /* Resources */,
+				B04C9FFC540940A3ADB8A993 /* Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -228,8 +282,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AFF3300C19C77E2100588F95 /* IMG_4753.png in Resources */,
+				AFF3300319C77E2100588F95 /* IMG_4743.png in Resources */,
+				AFF3300619C77E2100588F95 /* IMG_4747.png in Resources */,
+				AFF3300919C77E2100588F95 /* IMG_4750.png in Resources */,
+				AFF3300519C77E2100588F95 /* IMG_4746.png in Resources */,
+				AFF3300A19C77E2100588F95 /* IMG_4751.png in Resources */,
 				AFF5FCB119C36D690023C29D /* Images.xcassets in Resources */,
 				AFF5FCA319C36D690023C29D /* InfoPlist.strings in Resources */,
+				AFF3300B19C77E2100588F95 /* IMG_4752.png in Resources */,
+				AFF3300819C77E2100588F95 /* IMG_4749.png in Resources */,
+				AFF32FF819C77B9000588F95 /* LeGrandWorkshop.pdf in Resources */,
+				AFF3300419C77E2100588F95 /* IMG_4744.png in Resources */,
+				AFF3300719C77E2100588F95 /* IMG_4748.png in Resources */,
 				AFF5FCAC19C36D690023C29D /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -244,12 +309,46 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		B04C9FFC540940A3ADB8A993 /* Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Pods-LeGrandCadeau-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		BD108114D49C4F40A6934DB2 /* Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		AFF5FC9119C36D690023C29D /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AFF5FCAF19C36D690023C29D /* ViewController.m in Sources */,
+				AFF5FCAF19C36D690023C29D /* PageViewController.m in Sources */,
+				AFF5FCCF19C370AB0023C29D /* PageContentViewController.m in Sources */,
 				AFF5FCA919C36D690023C29D /* AppDelegate.m in Sources */,
 				AFF5FCA519C36D690023C29D /* main.m in Sources */,
 			);
@@ -375,6 +474,7 @@
 		};
 		AFF5FCC819C36D690023C29D /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 20EDC574CF00496F9FB70B1A /* Pods-LeGrandCadeau.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -388,6 +488,7 @@
 		};
 		AFF5FCC919C36D690023C29D /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 20EDC574CF00496F9FB70B1A /* Pods-LeGrandCadeau.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -458,6 +559,7 @@
 				AFF5FCC919C36D690023C29D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		AFF5FCCA19C36D690023C29D /* Build configuration list for PBXNativeTarget "LeGrandCadeauTests" */ = {
 			isa = XCConfigurationList;
@@ -466,6 +568,7 @@
 				AFF5FCCC19C36D690023C29D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
